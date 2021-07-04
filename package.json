@@ -5,8 +5,6 @@
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
-    "@react-three/drei": "^7.0.6",
-    "@react-three/fiber": "^7.0.2",
     "drei": "2.2.12",
     "react": "17.0.1",
     "react-colorful": "4.4.4",
